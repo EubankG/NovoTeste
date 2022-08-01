@@ -1,0 +1,22 @@
+:root { 
+    --corBackgrond: #FFFFFF ;
+    --CorFooter: #000032;
+    --CorSegundaria: #F6A973;
+    --corTexto:#1A1A1A;
+    -corTextoFooter: #A6A6A6;
+    font-family: 'Work Sans', sans-serif;
+}
+
+*{ 
+    background-color: var(--corBackgrond);
+}
+
+.header-altura{ 
+    height: 10%;
+  
+    
+}
+
+.pesquisa-Largura{
+    width: 60%;
+}
